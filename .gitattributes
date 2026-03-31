@@ -1,0 +1,2 @@
+*		text=auto
+*.opus  filter=lfs diff=lfs merge=lfs -text
