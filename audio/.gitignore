@@ -1,0 +1,2 @@
+# Allow processed audio files
+!*.opus

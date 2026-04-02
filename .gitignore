@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Allow globally metadata files
+!*.md
+!*.csv
+
+# & .gitignore files
+!.gitignore
+
+# Allow directories so nested .gitignore files can take effect
+!*/
