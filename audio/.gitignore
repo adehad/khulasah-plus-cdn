@@ -1,2 +1,7 @@
 # Allow processed audio files
 !*.opus
+
+# Allow HLS stream files
+!*.m3u8
+!*.m4s
+!*.mp4
